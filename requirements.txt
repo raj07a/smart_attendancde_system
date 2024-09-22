@@ -1,0 +1,4 @@
+face-recognition==1.3.0
+opencv-python==4.8.0.76
+streamlit==1.25.0
+pandas==2.1.1
